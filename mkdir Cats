@@ -1,0 +1,2 @@
+cd Cats
+git init --initial-branch=main
